@@ -1,5 +1,7 @@
 Project Title:
 Student Portal Management System
+
+
 Project Description:
 The Student Portal Management System is a web-based application designed to help students easily manage their personal information, view available courses, and calculate their academic results. The portal provides a user-friendly interface with responsive design, allowing students to access all features on desktops, tablets, and mobile devices. It also incorporates modern web technologies like Bootstrap, JavaScript, jQuery, and localStorage to create an interactive and efficient experience.
 
